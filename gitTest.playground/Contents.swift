@@ -4,3 +4,7 @@
 //I will update this playground as I go.
 
 let purpose = "This repo is where I will store my playgrounds while I learn Swift"
+
+let tree = "pine"
+let plant:String = "pothos"
+
